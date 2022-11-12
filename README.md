@@ -1,4 +1,4 @@
-# cardapio-digital
+# Vue-Template
 
 ## Build Setup
 
